@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# raw and processed brain data: large, and never commit participant data
+data/
+results/*.npy
+*.nii
+*.nii.gz
+*.tar.gz

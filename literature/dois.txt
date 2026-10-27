@@ -1,0 +1,45 @@
+# One source per line:  citekey,DOI     (lines starting with # are ignored)
+# The BibTeX entry is fetched automatically by scripts/11_make_bib.py
+
+# --- Dataset ---
+badea2017reproducibility,10.1371/journal.pone.0188196
+
+# --- Related work: fMRI + ML in Parkinson's (not diagnosis) ---
+boutet2021dbs,10.1038/s41467-021-23311-9
+
+# --- ML classification of Parkinson's from resting-state fMRI ---
+donisi2025connectomes,10.1186/s12911-025-03303-1
+li2024pdarnet,10.1088/1741-2552/ad788b
+xu2023topological,10.1016/j.neuroscience.2022.11.022
+shi2022radiomics,10.1007/s11682-022-00685-y
+rubbert2019networks,10.1259/bjr.20180886
+qin2025stn,10.3389/fnagi.2025.1695806
+solanalavalle2024causalforest,10.3390/tomography10060068
+szewczykkrolikowski2014basalganglia,10.1212/WNL.0000000000000592
+
+# --- Early-stage Parkinson's ---
+guo2022lstm,10.3389/fnimg.2022.952084
+
+# --- Evaluation, bias, reproducibility ---
+patil2024scannerbias,10.3390/bios14050259
+germani2025replication,10.1371/journal.pone.0317566
+nguyen2021trajectory,10.1016/j.parkreldis.2021.02.026
+
+# --- Review ---
+wang2025review,10.3389/fneur.2025.1581105
+
+# ===== MAYBE: read the abstract, then remove the # to keep =====
+#ren2026san,10.1038/s41586-025-10059-1
+#ng2017medication,10.1016/j.nicl.2017.09.004
+#hou2023drugnaive,10.1002/hbm.26110
+#cheng2025pdpsp,10.1016/j.brainresbull.2025.111476
+#baggio2019cerebellar,10.1016/j.nicl.2019.101720
+#abos2017cognitive,10.1038/srep45347
+#pang2021subtype,10.1016/j.parkreldis.2021.08.003
+#cerasa2016connectivity,10.1007/s11910-016-0687-9
+#rs_fmri_fpdrp2016,10.1002/hbm.23260
+#rs_fmri_pdrp2015,10.1038/jcbfm.2015.118
+
+# ===== Teacher's list: open the paper, copy its DOI, remove the # =====
+#ieee9230918,10.xxxx/xxxxx
+#pubmed39235364,10.xxxx/xxxxx
