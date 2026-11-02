@@ -22,11 +22,16 @@ Any sign of data leakage?
 ## Limitations
 
 ## Relevant quotes (with page number)
-Keep them short, in quotation marks, with page.
+Keep them short, in quotation marks, with page. Write the page number while reading, not later.
 
 ## Connection to my thesis: what is relevant, and for what?
 - Relevant information:
 - Used in chapter / section: (Related Work / Dataset / Preprocessing / Features / Models / Evaluation / Discussion)
 - Used as: dataset source / method inspiration / baseline to compare / evidence for a claim / tool
+
+## Reading questions (answer while reading)
+- How can I use this?
+- Does this really do what the authors claim?
+- Do I understand the results in the paper?
 
 ## My own thoughts and criticism
