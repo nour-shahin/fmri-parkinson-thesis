@@ -28,6 +28,8 @@ guo2022lstm,10.3389/fnimg.2022.952084
 patil2024scannerbias,10.3390/bios14050259
 germani2025replication,10.1371/journal.pone.0317566
 nguyen2021trajectory,10.1016/j.parkreldis.2021.02.026
+# Supervisor's list: PubMed 39235364 (systematic review of quality issues in neuroimaging AI for PD)
+dzialas2024quality,10.1002/mds.30002
 
 # --- Review ---
 wang2025review,10.3389/fneur.2025.1581105
@@ -43,6 +45,3 @@ wang2025review,10.3389/fneur.2025.1581105
 #cerasa2016connectivity,10.1007/s11910-016-0687-9
 #rs_fmri_fpdrp2016,10.1002/hbm.23260
 #rs_fmri_pdrp2015,10.1038/jcbfm.2015.118
-
-# ===== Supervisor's list: PubMed 39235364 (still to identify: open it, copy its DOI, remove the #) =====
-#pubmed39235364,10.xxxx/xxxxx
