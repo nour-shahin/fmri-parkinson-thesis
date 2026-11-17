@@ -17,6 +17,10 @@ qin2025stn,10.3389/fnagi.2025.1695806
 solanalavalle2024causalforest,10.3390/tomography10060068
 szewczykkrolikowski2014basalganglia,10.1212/WNL.0000000000000592
 
+# --- Supervisor's list: IEEE 9230918 (SVM on fMRI, 2020 IEEE Region 10 Symposium) ---
+# DOI built from the IEEE pattern: verify at https://doi.org/10.1109/TENSYMP50017.2020.9230918
+neehal2020prediction,10.1109/TENSYMP50017.2020.9230918
+
 # --- Early-stage Parkinson's ---
 guo2022lstm,10.3389/fnimg.2022.952084
 
@@ -40,6 +44,5 @@ wang2025review,10.3389/fneur.2025.1581105
 #rs_fmri_fpdrp2016,10.1002/hbm.23260
 #rs_fmri_pdrp2015,10.1038/jcbfm.2015.118
 
-# ===== Teacher's list: open the paper, copy its DOI, remove the # =====
-#ieee9230918,10.xxxx/xxxxx
+# ===== Supervisor's list: PubMed 39235364 (still to identify: open it, copy its DOI, remove the #) =====
 #pubmed39235364,10.xxxx/xxxxx
